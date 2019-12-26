@@ -43,6 +43,12 @@
 
 * __11__ (2019/12/23): Midterm
 
+* __12__ (2019/12/19): Clustering and Classification
+   * [lecture_12_notes](./lecture_12.pdf)
+   * Reading Materials: <br>
+   [From Professor Andrew Ng](./Andrew Ng Clustering.ppt)  
+   [From Professor Hung-yi Lee](./Lee_SVM.pdf) 
+   
 
 ## Homework:
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BigData_2019`. 
