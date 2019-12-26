@@ -45,7 +45,7 @@
 
 * __12__ (2019/12/19): Clustering and Classification
    * [lecture_12_notes](./lecture_12.pdf)
-   * Reading Materials: <br>
+   * Reading Materials: 
    [From Professor Andrew Ng](./Andrew Ng Clustering.ppt)  
    [From Professor Hung-yi Lee](./Lee_SVM.pdf) 
    
