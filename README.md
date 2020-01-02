@@ -54,6 +54,7 @@
 
 * __14__ (2020/1/2): Factor Investing Continued
    * [lecture_13_notes](./lecture_13.pdf)
+   * Reading Materials:[Comparing Cross-Section and Time-Series Factor Models](./Comparing Cross-Section and Time-Series.pdf)
    
 * __15__ (2020/1/3): Big Data Management
 
