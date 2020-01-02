@@ -43,12 +43,19 @@
 
 * __11__ (2019/12/23): Midterm
 
-* __12__ (2019/12/19): Clustering and Classification
+* __12__ (2019/12/26): Clustering and Classification
    * [lecture_12_notes](./lecture_12.pdf)
    * Reading Materials: 
    [From Professor Andrew Ng](./AndrewNg_Clustering.ppt)  
    [From Professor Hung-yi Lee](./Lee_SVM.pdf) 
+
+* __13__ (2019/12/30): Factor Investing
+   * [lecture_13_notes](./lecture_13.pdf)
+
+* __14__ (2020/1/2): Factor Investing Continued
+   * [lecture_13_notes](./lecture_13.pdf)
    
+* __15__ (2020/1/3): Big Data Management
 
 ## Homework:
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BigData_2019`. 
