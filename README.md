@@ -54,9 +54,10 @@
 
 * __14__ (2020/1/2): Factor Investing Continued
    * [lecture_13_notes](./lecture_13.pdf)
-   * Reading Materials:[Comparing Cross-Section and Time-Series Factor Models](./Comparing Cross-Section and Time-Series.pdf)
+   * Reading Materials:[Comparing Cross-Section and Time-Series Factor Models](./Comparing_Cross-Section_and_Time-Series.pdf)
    
 * __15__ (2020/1/3): Big Data Management
+	* [Short Video from Dr. Lei Xu, Data Scientist of Audaque](./DrLeiXu.mp4)
 
 ## Homework:
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BigData_2019`. 
