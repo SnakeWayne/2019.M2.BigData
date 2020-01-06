@@ -59,6 +59,9 @@
 * __15__ (2020/1/3): Big Data Management
 	* [Short Video from Dr. Lei Xu, Data Scientist of Audaque](./DrLeiXu.mp4)
 
+* __16__ (2019/12/30): Practical Issues of Factor Investing
+   * [lecture_16_notes](./lecture_16.pdf)
+
 ## Homework:
 * __hw #0__ Create your github repository (public) as `www.github.com/YOUR_ID/PHBS_BigData_2019`. 
 
